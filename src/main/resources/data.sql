@@ -1,0 +1,1 @@
+INSERT INTO USERS (username, salt, password, firstname, lastname) VALUES('k', 'CoejNpEXitevsiQBpIcptg==', 'Vj3rAbqHK2tFycEjbKTOCA==', 'kFN', 'kLN');
